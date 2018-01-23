@@ -1,0 +1,2 @@
+class GirlsToy < ApplicationRecord
+end
